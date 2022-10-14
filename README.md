@@ -13,3 +13,4 @@ network, and finally using it to predict bike rentals in our test data.
 [Go to repo](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/tree/main/Bike-Sharing)
 
 ### Project 2: Landmark Classification & Tagging
+In this project, we will implement a landmark classifier to predict the possible location of the image based on the landmarks depicted in it. To do this, we will build and train a CNN model, experimenting with its weights and layers, as well as trying out a pretained network. Then, after evaluation, we will try out the network on various images to see if it can successfully identify the location of the images based on the landmarks present.
