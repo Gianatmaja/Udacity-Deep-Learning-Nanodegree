@@ -7,14 +7,17 @@ network, and finally using it to predict bike rentals in our test data.
 This repository has the following structure
 
     .
-    ├── Bike-Sharing-Dataset                           
+    ├── Bike-Sharing-Dataset                # Bike Rentals Dataset             
     │  ├── days.csv
     │  ├── hours.csv
     │  ├── Readme.txt
-    ├── assets                
+    ├── assets                              # Images
     ├── Your_first_neural_network.ipynb
     ├── my_answers.py                                    
-    ├── requirements.txt
+    ├── requirements.txt                    # Code Requirements 
     └── README.md
 
-k
+The codes to build, train, run, as well as to perforrm backward and forward propagation are implemented in the my_answers.py file, whereas the 
+Your_first_neural_network.ipynb file contains codes for loading and preprocessing the dataset, calling and training the neural network built in my_answers.py, and using it to predict bike rentals.
+
+![network](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Bike-Sharing/assets/Screenshot%202022-10-14%20at%202.50.04%20PM.png)
