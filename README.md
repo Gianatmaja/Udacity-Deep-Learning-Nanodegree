@@ -11,3 +11,5 @@ temperature, etc. The data that we'll be using comes from the [UCI Machine Learn
 network, and finally using it to predict bike rentals in our test data.
 
 [Go to repo](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/tree/main/Bike-Sharing)
+
+### Project 2: Landmark Classification & Tagging
