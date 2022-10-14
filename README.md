@@ -20,3 +20,11 @@ network, and finally using it to predict bike rentals in our test data.
 In this project, we will implement a landmark classifier to predict the possible location of the image based on the landmarks depicted in it. To do this, we will build and train a CNN model, experimenting with its weights and layers, as well as trying out a pretained network. Then, after evaluation, we will try out the network on various images to see if it can successfully identify the location of the images based on the landmarks present. The dataset used in this project can be obtained [here](https://udacity-dlnfd.s3-us-west-1.amazonaws.com/datasets/landmark_images.zip).
 
 [Go to repo](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/tree/main/Landmark-Classifier)
+
+### Project 3: Generate TV Scripts
+![paper](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/images/Screenshot%202022-10-14%20at%209.51.31%20PM.png)
+*Photo by [Brooks Leibee](https://unsplash.com/@baleibee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bicycle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+In this project, we will be generating TV scripts using an RNN model. To do this, we'll be using a TV script dataset from 9 seasons of Seinfeld. We'll be loading and preprocessing this data, before using it to train the RNN that we defined. In the end, we'll be using the trained network to generate fake TV scripts.
+
+[Go to repo](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/tree/main/TV-Scripts)
