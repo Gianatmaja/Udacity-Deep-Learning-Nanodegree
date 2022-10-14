@@ -22,6 +22,6 @@ Your_first_neural_network.ipynb file contains codes for loading and preprocessin
 
 ![network](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Bike-Sharing/assets/Screenshot%202022-10-14%20at%202.50.04%20PM.png)
 
-### Some Results
+### Results
 Some screenshots of the results obtained during the project can be seen below.
 ![res](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Bike-Sharing/assets/Screenshot%202022-10-14%20at%202.59.55%20PM.png)
