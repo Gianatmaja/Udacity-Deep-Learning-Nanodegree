@@ -5,6 +5,7 @@ network, and finally using it to predict bike rentals in our test data.
 
 ### Project Structure
 This repository has the following structure
+
     .
     ├── Bike-Sharing-Dataset                           
     │  ├── days.csv
