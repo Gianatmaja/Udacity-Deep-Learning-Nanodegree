@@ -11,6 +11,9 @@ This repository has the following structure
     ├── ignore.pt               
     └── README.md
 
-All of the
+All of the codes are implemented in the landmark.ipynb file, from loading and preprocessing the dataset, to builing and training the neural networks, as well as predicting with test images. The files model_scratch.pt and ignore.pt are 2 examples of the models tested, whereas the images folder contains the test images.
+
+### Results
+Some screenshots of the results obtained during the project can be seen below.
 
     
