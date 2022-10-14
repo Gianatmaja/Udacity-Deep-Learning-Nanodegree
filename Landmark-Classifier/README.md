@@ -5,13 +5,12 @@ In this project, we will implement a landmark classifier to predict the possible
 This repository has the following structure
 
     .
-    ├── images                
-    ├── assets                           
+    ├── images                                         
     ├── landmark.ipynb
     ├── model_scratch.pt                             
     ├── ignore.pt               
     └── README.md
 
-s
+All of the
 
     
