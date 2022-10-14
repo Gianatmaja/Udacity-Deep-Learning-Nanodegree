@@ -5,8 +5,9 @@ In this project, we will implement a landmark classifier to predict the possible
 This repository has the following structure
 
     .
-    ├── images                                         
-    ├── landmark.ipynb
+    ├── images                  # Contains test images
+    ├── assets                  # Contains images used in README
+    ├── landmark.ipynb          # Main notebook
     ├── model_scratch.pt                             
     ├── ignore.pt               
     └── README.md
@@ -16,4 +17,6 @@ All of the codes are implemented in the landmark.ipynb file, from loading and pr
 ### Results
 Some screenshots of the results obtained during the project can be seen below.
 
-    
+![res1](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Landmark-Classifier/assets/Screenshot%202022-10-14%20at%205.35.44%20PM.png)
+
+![res2](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Landmark-Classifier/assets/Screenshot%202022-10-14%20at%205.36.00%20PM.png)
