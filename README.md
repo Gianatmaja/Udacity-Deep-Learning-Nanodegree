@@ -42,3 +42,5 @@ In this project, we will be using deep convolutional generative adversarial netw
 *Photo by [Noom Peerapong](https://unsplash.com/@imnoom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/)*
 
 In this project, we will be training a neural network to perform sentiment analysis on movie reviews. Then, we'll deploy the trained model on an AWS instance. We'll also use AWS Lambda and API Gateway so that the model is accessible from a web app. For this project, we'll be using the [IMDB Dataset](http://ai.stanford.edu/~amaas/data/sentiment/).
+
+[Go to repo](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/tree/main/Model-Deployment)
