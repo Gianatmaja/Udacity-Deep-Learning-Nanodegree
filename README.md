@@ -28,3 +28,11 @@ In this project, we will implement a landmark classifier to predict the possible
 In this project, we will be generating TV scripts using an RNN model. To do this, we'll be using a TV script dataset from 9 seasons of Seinfeld. We'll be loading and preprocessing this data, before using it to train the RNN that we defined. In the end, we'll be using the trained network to generate fake TV scripts.
 
 [Go to repo](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/tree/main/TV-Scripts)
+
+### Project 4: Generate Faces
+![network](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/images/Screenshot%202022-10-15%20at%209.51.56%20AM.png)
+*Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bicycle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+
+In this project, we will be using deep convolutional generative adversarial networks (DCGAN) to generate faces. We will be defining and training adversarial networks on the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). Then, we'll see how it performs by using is to generate sample faces
+
+[Go to repo](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/tree/main/Generate-Faces)
