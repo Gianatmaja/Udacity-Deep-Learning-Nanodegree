@@ -1,4 +1,4 @@
-# Udacity-Deep-Learning-Nanodegree
+# Udacity Deep Learning Nanodegree
 This repository contains the projects I completed for the Udacity Deep Learning Nanodegree.
 
 ### Project 1: Predicting Bike-Sharing Patterns
