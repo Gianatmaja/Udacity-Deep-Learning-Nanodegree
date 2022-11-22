@@ -45,5 +45,5 @@ In this project, we will be training a neural network to perform sentiment analy
 
 [Go to repo](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/tree/main/Model-Deployment)
 
-### Certificate of completion
+## Certificate of completion
 ![cert](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/images/Screenshot%202022-10-16%20at%2012.02.02%20AM.png)
