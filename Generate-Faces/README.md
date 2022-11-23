@@ -14,8 +14,8 @@ This repository has the following structure
 The bulk of the codes are implemented in the dlind_face_generation.ipynb file, with some helper functions defined separately in problem_unittests.py. The generated faces obtained during the process is saved in the train_samples.pkl file.
 
 Some screenshots of the training data used during the project can be seen below.
-![train](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Generate-Faces/images/processed_face_data.png)
+![train](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Generate-Faces/images/Pic1.png)
 
 ### Results
 Some screenshots of the results obtained during the project can be seen below.
-![res](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Generate-Faces/images/Screenshot%202022-10-15%20at%208.38.43%20AM.png)
+![res](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Generate-Faces/images/Res1.png)
