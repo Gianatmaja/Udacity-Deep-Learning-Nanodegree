@@ -17,4 +17,4 @@ The bulk of the codes are implemented in the dlind_tv_script_generation.ipynb fi
 
 ### Results
 Some screenshots of the results obtained during the project can be seen below.
-![res](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/TV-Scripts/images/Screenshot%202022-10-14%20at%2010.07.13%20PM.png)
+![res](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/TV-Scripts/images/Res1.png)
