@@ -17,6 +17,6 @@ All of the codes are implemented in the landmark.ipynb file, from loading and pr
 ### Results
 Some screenshots of the results obtained during the project can be seen below.
 
-![res1](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Landmark-Classifier/assets/Screenshot%202022-10-14%20at%205.35.44%20PM.png)
+![res1](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Landmark-Classifier/images/Res1.png)
 
-![res2](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Landmark-Classifier/assets/Screenshot%202022-10-14%20at%205.36.00%20PM.png)
+![res2](https://github.com/Gianatmaja/Udacity-Deep-Learning-Nanodegree/blob/main/Landmark-Classifier/images/Res2.png)
